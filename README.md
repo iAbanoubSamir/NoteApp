@@ -1,5 +1,21 @@
-# Note Android App Example with Java 
+# Note Android App
 Android Note App, Using Android Architecture Components (MVVM - Room).
+<br>
+## Description:
+- Add new note.
+- Edit existing note.
+- Set priority to the note from 1 to 10. 
+- Delete existing note (swipe to delete).
+- Delete all notes at one time.
+
+## Built with:
+- Java
+- MVVM (Model-View-ViewModel)
+- Room
+- ViewModel + LiveData
+- Repository Pattern
+- ListAdapter and DiffUtil
+
 
 ## License
 <pre><code>
